@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @vidishaagrawal
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning HTML, CSS and Java Script.
+- 👀 I’m interested in AI/ML 
+- 🌱 I’m currently learning Machine learning and deep learning concepts.
 - 📫 How to reach me: vidishaagrawal1326@gmail.com
 
 <!---
